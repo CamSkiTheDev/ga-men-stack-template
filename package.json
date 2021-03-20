@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "simple boilerplate for the men stack.",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "repository": "https://git.generalassemb.ly/camskithedev/men-stack-boilerplate.git",
   "author": "Cameron Lucas",
   "license": "MIT",
